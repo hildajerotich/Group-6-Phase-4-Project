@@ -73,24 +73,9 @@ However, to improve the model, future work should explore:
 - **Time-awareness** (capturing evolving user preferences).  
 - **Diversity in recommendations** (reducing repetitive suggestions).  
 
-Overall, this project provides a **strong baseline** for a movie recommendation engine and a **foundation for more advanced systems**.  
-
----
-
-##  Presentation
-- [Link to Presentation Slides](file:///C:/Users/Administrator/AppData/Local/Microsoft/Windows/INetCache/IE/7U2DWL6G/Presentation[1].pdf)  
-
----
-
-##  Repository Structure
-├── data/ # Raw and processed MovieLens data
-├── notebooks/ # Jupyter notebooks (EDA, modeling, evaluation)
-├── presentation/ # Slide deck for stakeholders
-├── README.md # Project summary and navigation
+Overall, this project provides a **strong baseline** for a movie recommendation engine and a **foundation for more advanced systems.
 
 
-
----
 
 ##  How to Run the Project 
 To run this repository and run the project, follow these steps:
